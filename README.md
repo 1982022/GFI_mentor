@@ -21,9 +21,9 @@ The folder `GFI_selection` contains the following files.
 
 - **repo_GFI_top1percent.csv**: The top 1% repositories with most GFIs.
 
-- **GFI_closed.csv**: the closed GFIs.
+- **GFI_closed.csv**: The closed GFIs.
 
-- **issue_labels.csv**:The issue_labels table in the database.
+- **issue_labels.csv**: The issue_labels table in the database.
 
 ## RQ1
 
