@@ -12,7 +12,7 @@ The folder `GFI_selection` contains the following files.
 
   - Select non-forked repos with gfi label from tables: `repo_labels` and `projects`. Save the GFI lable ID and repo ID to `repo_GFIlabel.csv`.
   - Select each GFI in the above repos from tables: `repo_labels`, `projects`, `issue_labels`. Save the issue ID, lable ID, and repo ID to `repo_GFI_distribution.csv`.
-  - Get the top 1% repositories with most GFIs ( i.e., #*GF Is* ⩾ 30), including 964 repositories and 68,652 GFIs, saved as `repo_GFI_top1percent.csv`.
+  - Get the top 1% repositories with most GFIs ( i.e., #*GFIs* ⩾ 30), including 964 repositories and 68,652 GFIs, saved as `repo_GFI_top1percent.csv`.
   - Filter the GFIs that are still in progress and only keep the closed GFIs, saved as `GFI_closed.csv`.
 
 - **repo_GFIlabel.csv**: Non-forked repos with GFI label.
